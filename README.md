@@ -55,6 +55,7 @@ Hello! This is where Harry and Chloe will put all the material for BCP. If any o
 [Workshop](https://learn.fullstackacademy.com/workshop/5ab7da028b8e9b000477fd36/content/5ab7dbafa468c900045db6ed/text)
 
 **[Live Lecture](https://youtu.be/IrQhvZ8AV9A)**
+
 **[Live Review](https://youtu.be/0l1cvh6sfQE)**
 
 [Solutions](https://learn.fullstackacademy.com/workshop/5ab7da028b8e9b000477fd36/content/5ab7dc11a468c900045db703/text)
