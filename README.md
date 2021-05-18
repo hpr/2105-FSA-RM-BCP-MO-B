@@ -52,22 +52,24 @@ Hello! This is where Harry and Chloe will put all the material for BCP. If any o
 
 ## **01 Introduction and Tidy Code**
 
-[Workshop](https://learn.fullstackacademy.com/workshop/5ab7da028b8e9b000477fd36/landing)
+[Workshop](https://learn.fullstackacademy.com/workshop/5ab7da028b8e9b000477fd36/content/5ab7dbafa468c900045db6ed/text)
 
-<!--
-
-**[Live Lecture](https://youtu.be/wlGimjUdXLU)**
+**[Live Lecture](https://youtu.be/IrQhvZ8AV9A)**
+**[Live Review](https://youtu.be/0l1cvh6sfQE)**
 
 [Solutions](https://learn.fullstackacademy.com/workshop/5ab7da028b8e9b000477fd36/content/5ab7dc11a468c900045db703/text)
 
-[Lecture Slides](00-slides/01-Introduction-and-Tidy-Code.pdf)
+[Lecture Slides](01-tidy-code/01_IntroductionAndTidyCode.pdf)
 
 ### Notes
 
-[Full Notes](01-tidy-code)
+[Past Notes](01-tidy-code)
 
-1. [Indenting](01-tidy-code/A-indenting.js)
-2. [Variable Names](01-tidy-code/B-variableNaming.js)
+1. [Our Solution 1](https://codepen.io/habst/pen/mdWrBvV?editors=0010)
+2. [Our Solution 2](https://codepen.io/habst/pen/YzZGrBP?editors=0010)
+3. [Our Soluiton 3](https://codepen.io/habst/pen/OJpRxdb?editors=0010)
+
+<!--
 
 ## **02 Loops And Debugging**
 
