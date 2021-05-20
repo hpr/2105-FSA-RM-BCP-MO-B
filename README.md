@@ -66,7 +66,7 @@ Hello! This is where Harry and Chloe will put all the material for BCP. If any o
 
 ### Notes
 
-[Past Notes](01-tidy-code)Q
+[Past Notes](01-tidy-code)
 
 1. [Our Solution 1](https://codepen.io/habst/pen/mdWrBvV?editors=0010)
 2. [Our Solution 2](https://codepen.io/habst/pen/YzZGrBP?editors=0010)
