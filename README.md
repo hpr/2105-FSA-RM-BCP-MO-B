@@ -62,15 +62,15 @@ Hello! This is where Harry and Chloe will put all the material for BCP. If any o
 
 [Lecture Slides](01-tidy-code/01_IntroductionAndTidyCode.pdf)
 
+[Exit Ticket](https://docs.google.com/forms/d/e/1FAIpQLSekvJrdxjiwyYLBOEbnSqEIqL1om8mLsb8q-jz2r5e1Zo0btQ/viewform)
+
 ### Notes
 
-[Past Notes](01-tidy-code)
+[Past Notes](01-tidy-code)Q
 
 1. [Our Solution 1](https://codepen.io/habst/pen/mdWrBvV?editors=0010)
 2. [Our Solution 2](https://codepen.io/habst/pen/YzZGrBP?editors=0010)
 3. [Our Soluiton 3](https://codepen.io/habst/pen/OJpRxdb?editors=0010)
-
-<!--
 
 ## **02 Loops And Debugging**
 
@@ -78,13 +78,15 @@ Hello! This is where Harry and Chloe will put all the material for BCP. If any o
 
 [Lecture Slides](00-slides/02-Loops-and-Debugging.pdf)
 
-**[Live Lecture](https://youtu.be/aQKHr2oDnOk)**
+**[Live Lecture](https://youtu.be/aQKHr2oDnOk)** (Old lecture)
 
-[Workshop](https://learn.fullstackacademy.com/workshop/5ac57192f7ff470004a63148/content/5ac572977ec3340004bddd57/text)
+[Workshop & Solutions](https://learn.fullstackacademy.com/workshop/5ac57192f7ff470004a63148/content/5ac573a6bd9f9e0004adb0cd/text)
 
-[Solutions](https://learn.fullstackacademy.com/workshop/5ac57192f7ff470004a63148/content/5ac57384f7ff470004a63170/text)
+[Exit Ticket](https://docs.google.com/forms/d/1xbaqc59drRmTN4gIH27Ow0-fBjvZnqPagA8ZMRwEhaM/viewform)
 
 ### Notes
+
+* [Loops Solutions w/ Harry](https://codepen.io/collection/dbbpQd)
 
 [Full Notes](02-loops-and-debugging)
 
@@ -98,13 +100,17 @@ Hello! This is where Harry and Chloe will put all the material for BCP. If any o
 
 [Lecture Slides](03-type-coercion-and-truthiness/03-Coercion-and-Truthiness.pdf)
 
-**[Live Lecture](https://youtu.be/xpZ2YougdR4)**
+**[Live Lecture](https://youtu.be/AY-llG2y4YE)**
 
-[Workshop](https://learn.fullstackacademy.com/workshop/5ac574e51abd3200043c12e8/content/5ac574e51abd3200043c12ed/text)
+**[Live Review](https://youtu.be/ZIbj1gZOf1M)**
 
-[Solutions](https://learn.fullstackacademy.com/workshop/5ac574e51abd3200043c12e8/content/5ac574e51abd3200043c12ee/text)
+[Workshop & Solutions](https://learn.fullstackacademy.com/workshop/5f24c8acfc4e3d00048aed53/content/5f24c8acfc4e3d00048aed63/text)
+
+[Exit Ticket](https://docs.google.com/forms/d/e/1FAIpQLScVupIeB2jo_uiUOaEWoEBmNM80EwArRHYGXqz7wZxAf1DXiw/viewform)
 
 ### Notes
+
+* [Truthiness & Types Solutions w/ Harry](https://codepen.io/collection/jbbkoO?cursor=ZD0wJm89MCZwPTEmdj00)
 
 [Full Notes](03-coercion-and-truthiness)
 
@@ -115,6 +121,8 @@ Hello! This is where Harry and Chloe will put all the material for BCP. If any o
 5. [Boolean Coercion 2](03-coercion-and-truthiness/E-boolean-coercion-2.js)
 6. [Boolean Coercion 3](03-coercion-and-truthiness/F-boolean-coercion-3.js)
 7. [Logical Operators](03-coercion-and-truthiness/G-logical-operators-1.js)
+
+<!--
 
 ## **04 Caesar Cypher**
 
