@@ -122,26 +122,24 @@ Hello! This is where Harry and Chloe will put all the material for BCP. If any o
 6. [Boolean Coercion 3](03-coercion-and-truthiness/F-boolean-coercion-3.js)
 7. [Logical Operators](03-coercion-and-truthiness/G-logical-operators-1.js)
 
-<!--
-
 ## **04 Caesar Cypher**
 
-**[Live Lecture (Ariel)](https://youtu.be/x-QNu7aMUR0)**
+**[Live Lecture](https://youtu.be/7EmRmZkRAak)**
 
-**[Live Lecture (Harry)](https://youtu.be/tSrQhjOxDuM)**
-
-**[Live Review](https://youtu.be/wubQ1zoPOck)**
+**[Live Review](https://youtu.be/5z-DetUEoUs)**
 
 [Lecture Slides](04-reacto/04.BCP-REACTO.pdf)
 
-[Workshop](https://learn.fullstackacademy.com/workshop/5ac574e51abd3200043c12e8/content/5ac574e51abd3200043c12ed/text)
+[Workshop & Solutions](https://learn.fullstackacademy.com/workshop/5ac574e51abd3200043c12e8/content/5ac574e51abd3200043c12ed/text)
 
-[Solutions](https://learn.fullstackacademy.com/workshop/5ac574e51abd3200043c12e8/content/5ac574e51abd3200043c12ee/text)
+[Exit Ticket](https://docs.google.com/forms/d/1kOJ3QBtlyqH-PYzms0nXwoWY1-DKsg-h7Up9Bczbo0Q/viewform)
 
 ### Notes
 
-* [Our Caesar Cypher](https://codepen.io/habst/pen/yLVGmxo?editors=0010)
-* [Our vowelCount](https://repl.it/@hpr/WoozyParallelComputer#index.js)
+* [Our Caesar Cypher](https://codepen.io/habst/pen/LYWxdwV?editors=0010)
+* [Our vowelCount](https://codepen.io/habst/pen/BaWpYGy)
+
+<!--
 
 ## **05 Scope**
 
