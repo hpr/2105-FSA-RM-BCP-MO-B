@@ -139,21 +139,24 @@ Hello! This is where Harry and Chloe will put all the material for BCP. If any o
 * [Our Caesar Cypher](https://codepen.io/habst/pen/LYWxdwV?editors=0010)
 * [Our vowelCount](https://codepen.io/habst/pen/BaWpYGy)
 
-<!--
 
 ## **05 Scope**
 
-**[Live Lecture](https://youtu.be/I6miZcHa1ok)**
+**[Live Lecture](https://youtu.be/ww1IqCNqHVc)**
 
-**[Scope Workshop Problems 4 & 5 Review](https://youtu.be/zxzapd17ThM)**
+**[Live Review](https://youtu.be/mZadnctnrK8)**
 
-[Workshop](https://learn.fullstackacademy.com/workshop/5ac576417ec3340004bdddb4/content/5ac576417ec3340004bdddb9/text)
+[Workshop & Solutions](https://learn.fullstackacademy.com/workshop/5ac576417ec3340004bdddb4/landing)
 
-[Solutions](https://learn.fullstackacademy.com/workshop/5ac576417ec3340004bdddb4/content/5ac576417ec3340004bdddba/text)
+[Exit Ticket](https://forms.gle/3wyhd27FtQrE9Kxf6)
 
 ### Notes
 
+* [Our Caesar Cypher Decoder](https://codepen.io/habst/pen/xxqdyQd)
+* [Our Solutions](https://codepen.io/collection/dbbRQk)
+
 [Full Notes](05-scope)
+
 1. [What is Scope?](05-scope/A-scope-is.js)
 2. [Global Scope](05-scope/B-globalscope.js)
 3. [Functional Scope](05-scope/C-func-scope.js)
@@ -161,6 +164,8 @@ Hello! This is where Harry and Chloe will put all the material for BCP. If any o
 5. [Block Scope](05-scope/E-blockscope.js)
 6. [Hoisting](05-scope/F-hoisting.js)
 7. [Best Practices](05-scope/G-bestpract.js)
+
+<!--
 
 ## **06 Arrays I**
 
