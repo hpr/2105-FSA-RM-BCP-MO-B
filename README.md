@@ -146,6 +146,8 @@ Hello! This is where Harry and Chloe will put all the material for BCP. If any o
 
 **[Live Review](https://youtu.be/mZadnctnrK8)**
 
+[Lecture Slides](05-scope/05_Scope.pdf)
+
 [Workshop & Solutions](https://learn.fullstackacademy.com/workshop/5ac576417ec3340004bdddb4/landing)
 
 [Exit Ticket](https://forms.gle/3wyhd27FtQrE9Kxf6)
@@ -165,19 +167,21 @@ Hello! This is where Harry and Chloe will put all the material for BCP. If any o
 6. [Hoisting](05-scope/F-hoisting.js)
 7. [Best Practices](05-scope/G-bestpract.js)
 
-<!--
-
 ## **06 Arrays I**
 
-**[Live Lecture](https://youtu.be/ud4gLNoNyls)**
+**[Live Lecture](https://youtu.be/ud4gLNoNyls)** (Old lecture)
 
 **[Live Solutions](https://youtu.be/tEVT4mS0-TQ)**
 
-[Workshop](https://learn.fullstackacademy.com/workshop/5ac57806bd9f9e0004adb186/content/5ac57806bd9f9e0004adb18b/text)
+[Lecture Slides](06-arrays-I/06_Arrays_I.pdf)
 
-[Solutions](https://learn.fullstackacademy.com/workshop/5ac57806bd9f9e0004adb186/content/5ac57806bd9f9e0004adb18c/text)
+[Workshop & Solutions](https://learn.fullstackacademy.com/workshop/5ac57806bd9f9e0004adb186/landing)
+
+[Exit Ticket](https://docs.google.com/forms/d/1uHL-GgLybZZOlb9ObCDQ4fzEv78QHA8iNNAxw3gfE6o/viewform)
 
 ### Notes
+
+* [Chloe's Examples](https://replit.com/join/cztqkwdk-kuroii)
 
 [Full Notes](06-arrays-I)
 
@@ -195,6 +199,8 @@ Hello! This is where Harry and Chloe will put all the material for BCP. If any o
 12. [Array.slice()](06-arrays-I/L-array-slice.js)
 13. [Array.includes()](06-arrays-I/M-array-includes.js)
 14. [Array.reverse()](06-arrays-I/N-array-reverse.js)
+
+<!--
 
 ## **07 Arrays II**
 
