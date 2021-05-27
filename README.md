@@ -182,6 +182,7 @@ Hello! This is where Harry and Chloe will put all the material for BCP. If any o
 ### Notes
 
 * [Chloe's Examples](https://replit.com/join/cztqkwdk-kuroii)
+* [Harry's Arrays I Solutions](https://codepen.io/collection/pggdPL)
 
 [Full Notes](06-arrays-I)
 
@@ -200,18 +201,21 @@ Hello! This is where Harry and Chloe will put all the material for BCP. If any o
 13. [Array.includes()](06-arrays-I/M-array-includes.js)
 14. [Array.reverse()](06-arrays-I/N-array-reverse.js)
 
-<!--
-
 ## **07 Arrays II**
 
-**[Lecture Slides](07-arrays-ii/07.Arrays-II.pdf)**
+**[Live Lecture](https://youtu.be/RZnVM4VBfKI)**
 
-**[Live Lecture](https://youtu.be/f66IDYWItFo)**
-**[Review](https://youtu.be/vcfyj0IonYQ)**
+**[Review](https://youtu.be/PRlP2CxMCqY)**
 
-[Workshop](https://learn.fullstackacademy.com/workshop/5ac579437ec3340004bdde15/content/5ac579437ec3340004bdde1a/text)
+[Lecture Slides](07-arrays-ii/07.Arrays-II.pdf)
 
-[Solutions](https://learn.fullstackacademy.com/workshop/5ac579437ec3340004bdde15/content/5ac579437ec3340004bdde1b/text)
+[Workshop & Solutions](https://learn.fullstackacademy.com/workshop/5ac579437ec3340004bdde15/landing)
+
+### Notes
+
+* [Harry's Arrays II solutions](https://codepen.io/collection/kNNxwj)
+
+<!--
 
 ## **08 Sudoku Validator**
 
