@@ -215,23 +215,21 @@ Hello! This is where Harry and Chloe will put all the material for BCP. If any o
 
 * [Harry's Arrays II solutions](https://codepen.io/collection/kNNxwj)
 
-<!--
-
 ## **08 Sudoku Validator**
 
-**[Live Lecture](https://youtu.be/LtkzMMOMtBM)**
+**[Live Lecture](https://youtu.be/WFudk4HOlJU)**
 
-**[Review](https://youtu.be/kYe2oNQmO04)**
+**[Review](https://youtu.be/q8zFfPfdKmQ)**
 
 [Lecture Slides](08-sudoku-validator/08.BCP-Sudoku.pdf)
 
-[Workshop](https://learn.fullstackacademy.com/workshop/5ad399aa137d870004733bac/content/5ad399aa137d870004733bb1/text)
-
-[Solutions](https://learn.fullstackacademy.com/workshop/5ad399aa137d870004733bac/content/5ad399aa137d870004733bb2/text)
+[Workshop & Solutions](https://learn.fullstackacademy.com/workshop/5ad399aa137d870004733bac/content/5ad399aa137d870004733bb1/text)
 
 ### Notes
 
-[Our Solutions](https://codepen.io/habst/pen/bGBPRYq?editors=0010)
+[Our Solutions](https://codepen.io/habst/pen/gOmGbaN?editors=0010)
+
+<!--
 
 ## **09 Objects**
 
