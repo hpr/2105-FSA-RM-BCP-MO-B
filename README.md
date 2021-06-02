@@ -229,17 +229,15 @@ Hello! This is where Harry and Chloe will put all the material for BCP. If any o
 
 [Our Solutions](https://codepen.io/habst/pen/gOmGbaN?editors=0010)
 
-<!--
-
 ## **09 Objects**
 
-**[Live Lecture](https://youtu.be/PgEoXb-LgFM)**
+**[Live Lecture](https://youtu.be/8Ahb7RUagTw)**
 
-[Workshop](https://learn.fullstackacademy.com/workshop/5ac57b3ebd9f9e0004adb210/content/5ac57b3ebd9f9e0004adb215/text)
-
-[Solutions](https://learn.fullstackacademy.com/workshop/5ac57b3ebd9f9e0004adb210/content/5ac57b3ebd9f9e0004adb216/text)
+[Workshop & Solutions](https://learn.fullstackacademy.com/workshop/5ac57b3ebd9f9e0004adb210/content/5ac57b3ebd9f9e0004adb215/text)
 
 ### General Notes
+
+[Harry's Class Solutions](https://codepen.io/collection/rxxzRR)
 
 [Full Notes](09-objects)
 
@@ -283,6 +281,8 @@ Hello! This is where Harry and Chloe will put all the material for BCP. If any o
 ## **Higher Order Functions II - Optional Advanced Lecture 3**
 
 **[Live Lecture](https://youtu.be/pAtDHJs5bis)**
+
+<!--
 
 ## **10 Recursion I**
 
