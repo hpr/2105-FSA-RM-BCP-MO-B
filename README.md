@@ -233,6 +233,8 @@ Hello! This is where Harry and Chloe will put all the material for BCP. If any o
 
 **[Live Lecture](https://youtu.be/8Ahb7RUagTw)**
 
+[Lecture Slides](09-objects/09_Objects.pdf)
+
 [Workshop & Solutions](https://learn.fullstackacademy.com/workshop/5ac57b3ebd9f9e0004adb210/content/5ac57b3ebd9f9e0004adb215/text)
 
 ### General Notes
@@ -282,17 +284,18 @@ Hello! This is where Harry and Chloe will put all the material for BCP. If any o
 
 **[Live Lecture](https://youtu.be/pAtDHJs5bis)**
 
-<!--
-
 ## **10 Recursion I**
 
-**[Live Lecture](https://youtu.be/Y7g_OUpRVDE)**
+**[Live Lecture](https://youtu.be/Y7g_OUpRVDE)** (old link)
 
-[Workshop](https://learn.fullstackacademy.com/workshop/5aca423037312200043b634a/content/5aca423137312200043b634e/text)
+[Lecture Slides](10-recursion-i/10_Recursion_I.pdf)
 
-[Solutions](https://learn.fullstackacademy.com/workshop/5aca423037312200043b634a/content/5aca423137312200043b6350/text)
+[Workshop & Solutions](https://learn.fullstackacademy.com/workshop/5aca423037312200043b634a/content/5aca423137312200043b6356/text)
 
 ### Notes
+
+* [Chloe's Review](https://replit.com/join/gqipeldh-kuroii)
+* [Harry's Review](https://codepen.io/collection/MggPbv)
 
 [Full Notes](10-recursion-i)
 
@@ -305,23 +308,25 @@ Hello! This is where Harry and Chloe will put all the material for BCP. If any o
 
 ## **11 Recursion II**
 
+**[Live Lecture](https://youtu.be/f7X2jxvKPdU)**
+
+**[Live Review](https://youtu.be/CDtEBk3t3Wo)**
+
 [Lecture Slides](11-recursion-ii/11-Recursion-II.pdf)
 
-**[Solutions Video Part I](https://youtu.be/f_bqQlTNUgE)**
-
-**[Solutions Video Part II](https://youtu.be/K0EfF8RphX4)**
-
-[Workshop](https://learn.fullstackacademy.com/workshop/5aca509c37312200043b6422/content/5aca509c37312200043b6426/text)
-
-[Solutions](https://codepen.io/FullstackAcademy/pen/dmMOEy?editors=0010)
+[Workshop & Solutions](https://learn.fullstackacademy.com/workshop/5aca509c37312200043b6422/content/5aca509c37312200043b642a/text)
 
 ### Notes
+
+* [Solutions w/ Harry](https://codepen.io/collection/xKKQZk)
 
 [Full Notes](11-recursion-ii)
 
 1. [logsAnArray](11-recursion-ii/A-logsAnArray.js)
 2. [concatEls](11-recursion-ii/B-concatEls.js)
 3. [sumVals](11-recursion-ii/C-sumVals.js)
+
+<!--
 
 ## **12 Next Steps**
 
